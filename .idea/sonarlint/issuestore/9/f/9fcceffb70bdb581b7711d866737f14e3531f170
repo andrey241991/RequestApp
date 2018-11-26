@@ -1,0 +1,38 @@
+
+lsquid:S1192"KDefine a constant instead of duplicating this literal "message = " 5 times.(¶×Ãíúÿÿÿÿ8ÙØÓİô,
+isquid:S1192"HDefine a constant instead of duplicating this literal "tag_my" 16 times.(¶×Ãíúÿÿÿÿ8ÙØÓİô,
+tsquid:S1192"XDefine a constant instead of duplicating this literal "showNetworkRequestError" 5 times.(¯Œıù8ÙØÓİô,
+lsquid:S1192"KDefine a constant instead of duplicating this literal "throwable " 5 times.(ÇÿÌÊıÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â³¡Üøÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â³¡Üøÿÿÿÿ8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªÂ™8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉŞ–à8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö—úÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„è†Ãûÿÿÿÿ8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»°Äö8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉŞ–à8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Õ±š8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö—úÿÿÿÿ8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¨Ä‰8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉŞ–à8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Õ±š8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö—úÿÿÿÿ8ÙØÓİô,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ãº·8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸éîåıÿÿÿÿ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³äãÍ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÙØÓİô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•í¾æ8ÙØÓİô,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÙØÓİô,
+Isquid:S1481"(Remove this unused "sub" local variable.(àÇõàûÿÿÿÿ8ÙØÓİô,
+Dsquid:S1481"(Remove this unused "sub" local variable.(Ğ½¬É8ÙØÓİô,
+Dsquid:S1481"(Remove this unused "sub" local variable.(­îæ°8ÙØÓİô,
+Isquid:S1481"(Remove this unused "sub" local variable.(ã–·úÿÿÿÿÿ8ÙØÓİô,
+Csquid:S1481"(Remove this unused "sub" local variable.(éºé98ÙØÓİô,
+Xsquid:S1854"7Remove this useless assignment to local variable "sub".(àÇõàûÿÿÿÿ8ÙØÓİô,
+Ssquid:S1854"7Remove this useless assignment to local variable "sub".(Ğ½¬É8ÙØÓİô,
+Ssquid:S1854"7Remove this useless assignment to local variable "sub".(­îæ°8ÙØÓİô,
+Xsquid:S1854"7Remove this useless assignment to local variable "sub".(ã–·úÿÿÿÿÿ8ÙØÓİô,
+Rsquid:S1854"7Remove this useless assignment to local variable "sub".(éºé98ÙØÓİô,
